@@ -1,0 +1,7 @@
+Paarth Lakhani
+u0936913
+
+Cade machine to test on: lab2-5.eng.utah.edu
+Command to use to run the program:
+python3 lesk.py test.txt definitions.txt stopwords.txt
+python3 distsim.py train.txt test.txt stopwords.txt 10

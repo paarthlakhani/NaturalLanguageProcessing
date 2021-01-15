@@ -6,3 +6,7 @@ This program focuses on creating feature vector files to train external machine 
 
 Programming Assignment #2:
 This program focuses on building a syntactic parser from scratch using the CKY parsing algorithm.
+
+Programming Assignment #3:
+This program focuses on implementing algorithms for word sense disambiguation, which assigns a sense to an occurrence  of a target word. 
+Implemented two algorithms:  1)  the Lesk algorithm, and 2) a nearest neighbor method using distributional vectors.
