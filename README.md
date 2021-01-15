@@ -1,2 +1,2 @@
 # NaturalLanguageProcessing
-Contains tasks exploring fundamental NLP concepts
+Tasks exploring different fundamental NLP concepts.
