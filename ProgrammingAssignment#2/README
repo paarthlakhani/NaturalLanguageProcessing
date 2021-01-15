@@ -1,0 +1,4 @@
+CADE machine: lab2-5.eng.utah.edu
+To run code, use the python command:
+python3 cky.py pcfg-example.txt sentences-example.txt
+python3 cky.py pcfg-example.txt sentences-example.txt -prob
